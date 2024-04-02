@@ -1,0 +1,452 @@
+{
+  "sections": [
+    {
+      "title": "Science",
+      "questions": [
+        {
+          "question": "What is the chemical symbol for water?",
+          "type": "MCQ",
+          "options": ["H2O", "CO2", "O2", "NaCl"],
+          "correct_option": "H2O"
+        },
+        {
+          "question": "What is the function of the mitochondria in a cell?",
+          "type": "MCQ",
+          "options": [
+            "Energy production",
+            "Photosynthesis",
+            "Cell division",
+            "Respiration"
+          ],
+          "correct_option": "Energy production"
+        },
+        {
+          "question": "What causes the tides in the oceans?",
+          "type": "MCQ",
+          "options": [
+            "Gravitational pull of the Moon",
+            "Wind currents",
+            "Earth's rotation",
+            "Solar flares"
+          ],
+          "correct_option": "Gravitational pull of the Moon"
+        },
+        {
+          "question": "What is the chemical formula for table salt?",
+          "type": "MCQ",
+          "options": ["NaCl", "H2O", "CO2", "O2"],
+          "correct_option": "NaCl"
+        },
+        {
+          "question": "What is the main function of red blood cells?",
+          "type": "MCQ",
+          "options": [
+            "Transport oxygen",
+            "Produce antibodies",
+            "Digest food",
+            "Produce hormones"
+          ],
+          "correct_option": "Transport oxygen"
+        },
+        {
+          "question": "What is the boiling point of water in Celsius?",
+          "type": "Number",
+          "correct_answer": 100
+        },
+        {
+          "question": "What is the largest organ in the human body?",
+          "type": "Text",
+          "correct_answer": "Skin"
+        },
+        {
+          "question": "What is the formula for calculating speed?",
+          "type": "Text",
+          "correct_answer": "Speed = Distance / Time"
+        },
+        {
+          "question": "What is the greenhouse effect?",
+          "type": "Text",
+          "correct_answer": "Warming of the Earth's surface"
+        },
+        {
+          "question": "What is the process of nuclear fusion?",
+          "type": "Text",
+          "correct_answer": "Combining of atomic nuclei"
+        },
+        {
+          "question": "What is the chemical formula for glucose?",
+          "type": "Text",
+          "correct_answer": "C6H12O6"
+        },
+        {
+          "question": "What is the main component of Earth's atmosphere?",
+          "type": "Text",
+          "correct_answer": "Nitrogen"
+        },
+        {
+          "question": "What is the pH level of pure water?",
+          "type": "Number",
+          "correct_answer": 7
+        },
+        {
+          "question": "What is the process by which an organism's DNA is copied?",
+          "type": "Text",
+          "correct_answer": "Replication"
+        },
+        {
+          "question": "What is the chemical formula for methane?",
+          "type": "Text",
+          "correct_answer": "CH4"
+        },
+        {
+          "question": "What is the function of the ribosomes in a cell?",
+          "type": "Text",
+          "correct_answer": "Protein synthesis"
+        },
+        {
+          "question": "What is the process by which blood clotting occurs?",
+          "type": "Text",
+          "correct_answer": "Coagulation"
+        },
+        {
+          "question": "What is the chemical formula for carbon dioxide?",
+          "type": "Text",
+          "correct_answer": "CO2"
+        },
+        {
+          "question": "What is the main component of natural gas?",
+          "type": "Text",
+          "correct_answer": "Methane"
+        },
+        {
+          "question": "What is the formula for finding the volume of a sphere?",
+          "type": "Text",
+          "correct_answer": "V = (4/3)πr^3"
+        }
+      ]
+    },
+    {
+      "title": "Math",
+      "questions": [
+        {
+          "question": "What is the value of π (pi) to two decimal places?",
+          "type": "Text",
+          "correct_answer": "3.14"
+        },
+        {
+          "question": "What is the Pythagorean theorem?",
+          "type": "MCQ",
+          "options": [
+            "a^2 = b^2 + c^2",
+            "a^2 + b^2 = c^2",
+            "a + b = c",
+            "a * b = c^2"
+          ],
+          "correct_option": "a^2 + b^2 = c^2"
+        },
+        {
+          "question": "What is the formula for finding the area of a circle?",
+          "type": "Text",
+          "correct_answer": "A = πr^2"
+        },
+        {
+          "question": "What is the square root of 144?",
+          "type": "Text",
+          "correct_answer": "12"
+        },
+        {
+          "question": "What is the sum of the interior angles of a triangle?",
+          "type": "Text",
+          "correct_answer": "180°"
+        },
+        {
+          "question": "What is the sum of 5 and 7?",
+          "type": "Number",
+          "correct_answer": 12
+        },
+        {
+          "question": "What is the value of 5 factorial (5!)?",
+          "type": "Number",
+          "correct_answer": 120
+        },
+        {
+          "question": "What is the difference between median and mode?",
+          "type": "Text",
+          "correct_answer": "Median is the middle value; mode is the most frequent value"
+        },
+        {
+          "question": "What is the formula for finding the volume of a cube?",
+          "type": "Text",
+          "correct_answer": "V = l^3"
+        },
+        {
+          "question": "What is the meaning of 'quadratic equation'?",
+          "type": "Text",
+          "correct_answer": "An equation involving one unknown and of degree 2"
+        },
+        {
+          "question": "What is the value of 7 multiplied by 8?",
+          "type": "Number",
+          "correct_answer": 56
+        },
+        {
+          "question": "What is the formula for finding the perimeter of a rectangle?",
+          "type": "Text",
+          "correct_answer": "P = 2(l + w)"
+        },
+        {
+          "question": "What is the value of 2 to the power of 5?",
+          "type": "Number",
+          "correct_answer": 32
+        },
+        {
+          "question": "What is the meaning of 'exponential growth'?",
+          "type": "Text",
+          "correct_answer": "Growth at a constant rate per unit of time"
+        },
+        {
+          "question": "What is the value of the square root of 81?",
+          "type": "Number",
+          "correct_answer": 9
+        },
+        {
+          "question": "What is the formula for finding the area of a rectangle?",
+          "type": "Text",
+          "correct_answer": "A = l * w"
+        },
+        {
+          "question": "What is the value of 3 cubed (3^3)?",
+          "type": "Number",
+          "correct_answer": 27
+        },
+        {
+          "question": "What is the meaning of 'quadrilateral'?",
+          "type": "Text",
+          "correct_answer": "A polygon with four sides"
+        },
+        {
+          "question": "What is the value of 6 divided by 2?",
+          "type": "Number",
+          "correct_answer": 3
+        },
+        {
+          "question": "What is the formula for finding the circumference of a circle?",
+          "type": "Text",
+          "correct_answer": "C = 2πr"
+        }
+      ]
+    },
+    {
+      "title": "General Knowledge",
+      "questions": [
+        {
+          "question": "Which planet is known as the 'Red Planet'?",
+          "type": "MCQ",
+          "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+          "correct_option": "Mars"
+        },
+        {
+          "question": "What is the capital of Australia?",
+          "type": "Text",
+          "correct_answer": "Canberra"
+        },
+        {
+          "question": "Who wrote 'To Kill a Mockingbird'?",
+          "type": "Text",
+          "correct_answer": "Harper Lee"
+        },
+        {
+          "question": "What is the chemical symbol for gold?",
+          "type": "MCQ",
+          "options": ["Au", "Ag", "Fe", "Cu"],
+          "correct_option": "Au"
+        },
+        {
+          "question": "What is the longest river in the world?",
+          "type": "Text",
+          "correct_answer": "Nile"
+        },
+        {
+          "question": "Which country is known as the 'Land of the Rising Sun'?",
+          "type": "Text",
+          "correct_answer": "Japan"
+        },
+        {
+          "question": "What is the tallest mountain in the world?",
+          "type": "Text",
+          "correct_answer": "Mount Everest"
+        },
+        {
+          "question": "Who discovered penicillin?",
+          "type": "Text",
+          "correct_answer": "Alexander Fleming"
+        },
+        {
+          "question": "What is the currency of Japan?",
+          "type": "Text",
+          "correct_answer": "Yen"
+        },
+        {
+          "question": "What is the capital of France?",
+          "type": "Text",
+          "correct_answer": "Paris"
+        },
+        {
+          "question": "What is the currency of Brazil?",
+          "type": "Text",
+          "correct_answer": "Brazilian real"
+        },
+        {
+          "question": "Who painted the Mona Lisa?",
+          "type": "Text",
+          "correct_answer": "Leonardo da Vinci"
+        },
+        {
+          "question": "What is the national animal of India?",
+          "type": "Text",
+          "correct_answer": "Tiger"
+        },
+        {
+          "question": "What is the currency of Russia?",
+          "type": "Text",
+          "correct_answer": "Russian ruble"
+        },
+        {
+          "question": "Who wrote 'Romeo and Juliet'?",
+          "type": "Text",
+          "correct_answer": "William Shakespeare"
+        },
+        {
+          "question": "What is the capital of Argentina?",
+          "type": "Text",
+          "correct_answer": "Buenos Aires"
+        },
+        {
+          "question": "What is the currency of the United Kingdom?",
+          "type": "Text",
+          "correct_answer": "British pound"
+        },
+        {
+          "question": "What is the national bird of the United States?",
+          "type": "Text",
+          "correct_answer": "Bald eagle"
+        },
+        {
+          "question": "Who is known as the 'Father of the Nation' in India?",
+          "type": "Text",
+          "correct_answer": "Mahatma Gandhi"
+        },
+        {
+          "question": "What is the currency of Canada?",
+          "type": "Text",
+          "correct_answer": "Canadian dollar"
+        }
+      ]
+    },
+    {
+      "title": "Indian History",
+      "questions": [
+        {
+          "question": "Who was the first Prime Minister of India?",
+          "type": "Text",
+          "correct_answer": "Jawaharlal Nehru"
+        },
+        {
+          "question": "When did India gain independence from British rule?",
+          "type": "Number",
+          "correct_answer": 1947
+        },
+        {
+          "question": "Which emperor built the Taj Mahal?",
+          "type": "Text",
+          "correct_answer": "Shah Jahan"
+        },
+        {
+          "question": "What is the name of the ancient Indian text that deals with the principles of politics and governance?",
+          "type": "Text",
+          "correct_answer": "Arthashastra"
+        },
+        {
+          "question": "Who discovered penicillin?",
+          "type": "Text",
+          "correct_answer": "Alexander Fleming"
+        },
+        {
+          "question": "Which river is known as the 'Ganga' in India?",
+          "type": "Text",
+          "correct_answer": "The Ganges"
+        },
+        {
+          "question": "Who was the first woman Prime Minister of India?",
+          "type": "Text",
+          "correct_answer": "Indira Gandhi"
+        },
+        {
+          "question": "What was the capital of India during the Mughal Empire?",
+          "type": "Text",
+          "correct_answer": "Delhi"
+        },
+        {
+          "question": "Who wrote the book 'Discovery of India'?",
+          "type": "Text",
+          "correct_answer": "Jawaharlal Nehru"
+        },
+        {
+          "question": "Who was the founder of the Maurya Empire?",
+          "type": "Text",
+          "correct_answer": "Chandragupta Maurya"
+        },
+        {
+          "question": "What is the national emblem of India?",
+          "type": "Text",
+          "correct_answer": "Lion Capital of Ashoka"
+        },
+        {
+          "question": "Who was the first Governor-General of independent India?",
+          "type": "Text",
+          "correct_answer": "Lord Mountbatten"
+        },
+        {
+          "question": "What was the ancient name of India?",
+          "type": "Text",
+          "correct_answer": "Bharatavarsha"
+        },
+        {
+          "question": "Who composed the Indian national anthem?",
+          "type": "Text",
+          "correct_answer": "Rabindranath Tagore"
+        },
+        {
+          "question": "What is the meaning of 'Satyagraha'?",
+          "type": "Text",
+          "correct_answer": "Truth force or soul force"
+        },
+        {
+          "question": "Who is known as the 'Iron Man of India'?",
+          "type": "Text",
+          "correct_answer": "Sardar Vallabhbhai Patel"
+        },
+        {
+          "question": "Who founded the Indian National Congress in 1885?",
+          "type": "Text",
+          "correct_answer": "Allan Octavian Hume"
+        },
+        {
+          "question": "Who was the first Indian woman to win an Olympic medal?",
+          "type": "Text",
+          "correct_answer": "Karnam Malleswari"
+        },
+        {
+          "question": "What is the national flower of India?",
+          "type": "Text",
+          "correct_answer": "Lotus"
+        },
+        {
+          "question": "Who built the Qutub Minar in Delhi?",
+          "type": "Text",
+          "correct_answer": "Qutb-ud-din Aibak"
+        }
+      ]
+    }
+  ]
+}
